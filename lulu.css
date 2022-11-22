@@ -1,0 +1,35 @@
+body {
+    background-color: rgba(255, 238, 1, 0.534);
+   }
+   .wrapper{
+    height: 420px;
+    width: 654px;
+    margin:50px auto ;
+    border-radius:7px 7px 7px 7px ;
+    -webkit-box-shadow:0px 14px 32px 0px rgba(0,0,0,0,15);
+    -moz-box-shadow:0px 14px 32px 0px rgba(0,0,0,0,15);
+    box-shadow: 0px 14px 32px 0px rgba(0,0,0,0,15);
+    }
+    .produto-texto{
+        height: 300px;
+        width: 327px;
+         
+        }
+        .produto-texto h1{
+            margin:0 0 0 38px;
+            padding-top: 52px;
+            font-size: 34px;
+            color: rgb(199, 122, 6);
+            }
+            .produto-texto p{
+                height: 125px;
+                margin: 0 0 0 38px;
+                font-family: 'Playfair Display' serif;
+                color:rgb(46, 3, 0);
+                line-height: 1.7em;
+                font-size: 15px;
+                font-weight: lighter;
+                overflow: hidden;
+                 
+                }
+                
