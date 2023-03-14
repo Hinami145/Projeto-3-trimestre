@@ -1,0 +1,13 @@
+.cabeçalho-imagem{
+  background-color: rgb(223, 49, 18);  
+color: darkred;
+display: flex;
+justify-content:space-around;
+
+
+
+}
+.nomeli{
+display: inline-block;
+
+}
